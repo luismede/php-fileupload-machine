@@ -1,0 +1,8 @@
+From Rodney -
+
+Hi!
+It's all working!
+Test if it is possible to send php files!
+Test these extensions: php, php3, php4, php5, php7 and phps and phtml.
+
+To Luis
