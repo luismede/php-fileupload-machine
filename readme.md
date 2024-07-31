@@ -1,4 +1,4 @@
-## This site was created for the KrakenSec project (Discontinued desde 2022/2023), a project about information security and hacking.
+## This site was created for the KrakenSec project (Discontinued since 2022/2023), a project about information security and hacking.
 
 This site is a **vulnerable machine** with problems in the PHP code, allowing a <a href="https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php">Reverse Shell!</a>
 
